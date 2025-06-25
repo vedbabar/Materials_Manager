@@ -1,0 +1,12 @@
+**
+**HMNAME MATS          1 Brass     3
+*MATERIAL, NAME=Brass
+DENSITY
+6.35,0.0 
+*ELASTIC, TYPE = ISOTROPIC
+167.2  ,0.147      ,0.0 
+*PLASTIC
+862.00	  ,0.00000   ,0.0
+5306.04	  ,1.81735   ,0.0
+641.17	  ,-3.69762   ,0.0
+*****

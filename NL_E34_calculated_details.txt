@@ -1,0 +1,20 @@
+Material: NL_E34
+Manufacturing Process: Forging
+Applications: Cars
+
+--- Input Properties (from selected row) ---
+Yield strength: 460.0
+UTS: 520.0
+%EL: 15.0
+Young's modulus: 210000.0
+
+--- Calculated Mechanical Properties ---
+Nominal strain at yield: 0.002190476
+Nominal strain at UTS: 0.150000000
+At yield engineering strain: 0.002190476
+At yield true strain: 0.002188081
+At yield true stress: 461.007619
+At UTS true strain: 0.139761942
+At UTS true stress: 598.000000
+Plastic strain at yield: -0.000007194
+Plastic strain at UTS: 0.136914323

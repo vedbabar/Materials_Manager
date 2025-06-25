@@ -1,0 +1,5 @@
+$HMNAME MAT                    1"Brass" "MAT1"
+$HWCOLOR MAT                   1       3
+MAT1    1       167.2           0.27    6.35e+00
+$2345678$2345678$2345678$2345678$2345678$2345678
+| material name |  ID(1)   |  Young's modulus| blank | poissons ratio|density|

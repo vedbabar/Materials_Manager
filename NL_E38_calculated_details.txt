@@ -1,0 +1,20 @@
+Material: NL_E38
+Manufacturing Process: Chemical
+Applications: Equipments
+
+--- Input Properties (from selected row) ---
+Yield strength: 750.0
+UTS: 382.0
+%EL: 29.0
+Young's modulus: 210000.0
+
+--- Calculated Mechanical Properties ---
+Nominal strain at yield: 0.003571429
+Nominal strain at UTS: 0.290000000
+At yield engineering strain: 0.003571429
+At yield true strain: 0.003565066
+At yield true stress: 752.678571
+At UTS true strain: 0.254642218
+At UTS true stress: 492.780000
+Plastic strain at yield: -0.000019118
+Plastic strain at UTS: 0.252295647

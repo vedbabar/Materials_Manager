@@ -1,0 +1,12 @@
+**
+**HMNAME MATS          1 NL_E38     3
+*MATERIAL, NAME=NL_E38
+*DENSITY
+7.8000E-09,0.0       
+*ELASTIC, TYPE = ISOTROPIC
+210000.0  ,0.29      ,0.0       
+*PLASTIC
+380.00	  ,0.00000   ,0.0
+380.69	  ,0.00181   ,0.0
+562.50	  ,0.22046   ,0.0
+*****
