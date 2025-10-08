@@ -68,6 +68,6 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`</code></pre>
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/screenshot1.png" alt="App Screenshot 1" width="400"/>
-  <img src="screenshots/screenshot2.png" alt="App Screenshot 2" width="400"/>
+  <img src="mat1.png" alt="App Screenshot 1" width="400"/>
+  <img src="mat2.png" alt="App Screenshot 2" width="400"/>
 </p>
